@@ -6,7 +6,7 @@ from math import floor
 
 width = 900
 height = 900
-window = pyglet.window.Window(width,height,"paparde")
+window = pyglet.window.Window(width,height,"fern")
 
 def whitebackground():
     for i in range(-1,width + 1):
